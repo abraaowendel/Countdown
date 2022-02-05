@@ -2,8 +2,6 @@
   Contagem Regressiva.
 </h1>
 
-
-
 <h4 align="center"><a href="https://abraaowendel.github.io/Countdown/" target="_blank">Clique para visitar o projeto</a></h4>
 
 ---
