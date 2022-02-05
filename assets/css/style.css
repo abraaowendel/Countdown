@@ -36,11 +36,12 @@ section{
     margin: auto;
     text-align: center;
     overflow-x: hidden;
-
 }
+
 .item{
     flex: 1;
 }
+
 .content-box{
     display: flex;
     align-items: center;
@@ -53,10 +54,12 @@ footer{
     width: 100vw;
     height: 100px;
 }
+
 .footer-container{
     display: flex;
     justify-content: center ;
 }
+
 .footer-container img{
     margin: 0 10px;
     cursor: pointer;
@@ -73,6 +76,7 @@ footer{
         font-size: 18px;
     }
 }
+
 @media (max-width: 500px){
     .container{
         padding: 0 10px;
