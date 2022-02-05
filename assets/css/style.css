@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(/assets/images/bg-stars.svg);
+    background-image: url(./assets/images/bg-stars.svg);
     background-color: #160118;
 }
 header{
@@ -23,9 +23,7 @@ p{
 h2{
     font-size: 100px;
 }
-section{
 
-}
 .container{
     width: 100%;
     max-width: 600px;
